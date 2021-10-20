@@ -1,2 +1,2 @@
 # smile_detection
-smile detection using OpenCV
+smile detection using OpenCV , HaarCascade
